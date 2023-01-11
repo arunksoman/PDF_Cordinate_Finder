@@ -3,3 +3,8 @@ __pycache__
 *.pyc
 *.pdf
 *.png
+create_pdf.py
+test.py
+t1.py
+*.eml
+eml_pdf_generator.py
